@@ -2,4 +2,6 @@
 
 #1st line
 
-#2nd line (add,commit, push)
+#2nd line (commit, push)
+
+#3rd line (add, commit, push)
